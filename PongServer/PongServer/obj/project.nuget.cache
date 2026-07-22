@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EP6Y2qiAq4s=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Homewarriors\\source\\repos\\PongServer\\PongServer\\PongServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Homewarriors\\.nuget\\packages\\microsoft.netcore.app.ref\\10.0.9\\microsoft.netcore.app.ref.10.0.9.nupkg.sha512",
+    "C:\\Users\\Homewarriors\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\10.0.9\\microsoft.windowsdesktop.app.ref.10.0.9.nupkg.sha512",
+    "C:\\Users\\Homewarriors\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\10.0.9\\microsoft.aspnetcore.app.ref.10.0.9.nupkg.sha512",
+    "C:\\Users\\Homewarriors\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\10.0.9\\microsoft.netcore.app.host.win-x64.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

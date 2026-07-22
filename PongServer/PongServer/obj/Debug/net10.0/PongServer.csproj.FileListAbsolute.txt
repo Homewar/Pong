@@ -1,0 +1,14 @@
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\bin\Debug\net10.0\PongServer.exe
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\bin\Debug\net10.0\PongServer.deps.json
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\bin\Debug\net10.0\PongServer.runtimeconfig.json
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\bin\Debug\net10.0\PongServer.dll
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\bin\Debug\net10.0\PongServer.pdb
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\obj\Debug\net10.0\PongServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\obj\Debug\net10.0\PongServer.AssemblyInfoInputs.cache
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\obj\Debug\net10.0\PongServer.AssemblyInfo.cs
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\obj\Debug\net10.0\PongServer.csproj.CoreCompileInputs.cache
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\obj\Debug\net10.0\PongServer.dll
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\obj\Debug\net10.0\refint\PongServer.dll
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\obj\Debug\net10.0\PongServer.pdb
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\obj\Debug\net10.0\PongServer.genruntimeconfig.cache
+C:\Users\Homewarriors\source\repos\PongServer\PongServer\obj\Debug\net10.0\ref\PongServer.dll
